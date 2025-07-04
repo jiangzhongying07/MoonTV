@@ -85,5 +85,14 @@
        "速播": {
       "api": "https://subocj.com/api.php/provide/vod",
       "name": "速播资源"
+         "七七": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod",
+      "name": "七七资源"
+           "影视": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "name": "影视工厂"
+             "饭团": {
+      "api": "https://www.fantuan.tv/api.php/provide/vod",
+      "name": "饭团影视"
   }
 }
